@@ -32,7 +32,7 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^16.3.2",
+    "@octokit/rest": "^18.5.4",
     "chai": "^3.4.1",
     "chai-as-promised": "^6.0.0",
     "check-for-leaks": "^1.2.1",
