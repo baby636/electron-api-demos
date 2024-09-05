@@ -32,7 +32,7 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^16.3.2",
+    "@octokit/rest": "^17.0.0",
     "chai": "^3.4.1",
     "chai-as-promised": "^6.0.0",
     "check-for-leaks": "^1.2.1",
@@ -45,12 +45,12 @@
     "request": "^2.70.0",
     "rimraf": "^2.5.2",
     "signcode": "^0.5.0",
-    "spectron": "^5.0.0",
-    "standard": "^8.2.0",
-    "tap": "^14.10.6"
+    "spectron": "^14.0.0",
+    "standard": "^17.0.0",
+    "tap": "^18.0.0"
   },
   "dependencies": {
-    "electron": "^9.4.0",
+    "electron": "^20.0.0",
     "electron-log": "^2.2.14",
     "electron-settings": "^3.0.7",
     "electron-shortcut-normalizer": "^1.0.0",
